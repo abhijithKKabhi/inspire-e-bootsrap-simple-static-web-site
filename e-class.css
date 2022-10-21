@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html,body{
+    height: 100%;
+    
+}
+
+.bld{
+    color: white;
+    
+    background: rgba(0, 0,0, 0.7);
+    height: 100vh;
+    
+    
+}
+h{
+    
+   margin-left: 35%; 
+   padding-top: 50vh;
+   justify-content: center;
+}
+.bd{
+    position: relative;
+    
+    background: url("./avery-evans-MNic2K9zlr0-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+}
